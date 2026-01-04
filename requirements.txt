@@ -1,1 +1,6 @@
-
+ibm_watsonx_ai
+langchain
+langchain_community
+huggingface_hub
+gradio
+tqdm
