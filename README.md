@@ -80,7 +80,7 @@ User Query → Semantic Retrieval → RetrievalQA → IBM Watsonx LLM → Answer
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/amarkumar55/RAG-based-PDF-Question-Answering-Bot.git
+git clone https://github.com/amarskdev/RAG-based-PDF-Question-Answering-Bot.git
 cd RAG-based-PDF-Question-Answering-Bot
 ```
 
@@ -151,11 +151,28 @@ RAG-based-PDF-Question-Answering-Bot/
 
 ---
 
-## 👤 Author
-
-**Amar Kumar** — Senior Backend Engineer · IBM Certified AI Engineer  
-[LinkedIn](https://www.linkedin.com/in/amarkumar241429017/) · [GitHub](https://github.com/amarkumar55)
+*Built with enterprise-grade AI (IBM Watsonx) — not just another OpenAI wrapper.*
 
 ---
 
-*Built with enterprise-grade AI (IBM Watsonx) — not just another OpenAI wrapper.*
+## 🤝 Connect With Me
+
+
+<div align="center">
+
+### 👤 About the Author
+
+**Amar Kumar**  
+*Senior Backend Engineer · IBM Certified AI Engineer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amarskdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarskdev)
+[![GitHub](https://img.shields.io/badge/GitHub-amarskdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amarskdev)
+[![Gmail](https://img.shields.io/badge/Gmail-amarsk.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarsk.dev@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-amarskdev-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/amarskdev)
+[![Instagram](https://img.shields.io/badge/Instagram-amarsk.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amarsk.dev/)
+[![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/amarskdev/)
+
+*If you found this project useful, consider giving it a ⭐ — it means a lot!*
+
+</div>
+
